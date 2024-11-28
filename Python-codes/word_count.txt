@@ -1,0 +1,8 @@
+hi: 1
+my: 1
+name: 2
+is: 2
+nandini: 1
+and: 1
+your: 1
+ramesh: 1
